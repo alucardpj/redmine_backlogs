@@ -2,17 +2,17 @@
 zh:
   backlogs_active: 活跃
   backlogs_any: 所有
-  backlogs_auto_assign_task: Auto assign task to current user
-  backlogs_burndown_print_height: Burndown print height
-  backlogs_burndown_print_width: Burndown print width
+  backlogs_auto_assign_task: 自动分配任务给当前用户
+  backlogs_burndown_print_height: 燃尽图高度
+  backlogs_burndown_print_width: 燃尽图宽度
   backlogs_card_specification: 打印卡片的标签类型
-  backlogs_impediment: Impediment
-  backlogs_include_sat_and_sun: Include Saturday and Sunday in Burndown
+  backlogs_impediment: 障碍
+  backlogs_include_sat_and_sun: 在燃尽图中包含周六和周日
   backlogs_new_story_position: Newly created stories go to the
   backlogs_new_story_position_bottom: bottom (requires restart)
   backlogs_new_story_position_top: top
   backlogs_points_burn_direction: 点数消耗 燃起/燃尽
-  backlogs_product_backlog: 产品backlog
+  backlogs_product_backlog: 产品订单
   backlogs_story_close_status: "Status to close story automatically"
   backlogs_sprints: 冲刺
   backlogs_statistics_active: Project show activity
@@ -69,13 +69,13 @@ zh:
   error_sprint_end_before_start: Sprint cannot end before it starts
   error_taken: is already in use
   event_sprint_summary: ! '%{project}: %{summary}'
-  field_assigned_to: Assigned To
+  field_assigned_to: 指派给
   field_base: ""
-  field_backlogs_issue_type: Backlog类型
+  field_backlogs_issue_type: 订单类型
   field_blocks: ! '[[Blocks]]'
   field_name: ! '[[Name]]'
   field_position: 位置
-  field_priority: Priority
+  field_priority: 优先级
   field_release_end_date: Release end date
   field_release_start_date: Release start date
   field_remaining_hours: Remaining (hours)
@@ -93,16 +93,16 @@ zh:
   label_burndown: 燃尽
   label_chart_options: 表单选项
   label_close_completed_sprints: Close completed Sprints
-  label_column_width: Column width
-  label_download_sprint: Download
-  label_hide_completed_sprints: Hide Completed Sprints
+  label_column_width: 列宽
+  label_download_sprint: 下载
+  label_hide_completed_sprints: 隐藏已完成的冲刺
   label_hours: 小时
-  label_hours_remaining: remaining hours
+  label_hours_remaining: 剩余小时数
   label_hours_required_burn_rate: required burn rate (hours)
   label_ideal: ideal
-  label_impediments: Impediments
+  label_impediments: 障碍
   label_master_backlog: Backlog控制板
-  label_new_sprint: New Sprint
+  label_new_sprint: 新建冲刺
   label_new_story: New Story
   label_no_data_to_show: No data to show
   label_no_end: no end
